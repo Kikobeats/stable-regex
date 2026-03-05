@@ -2,7 +2,7 @@
   "name": "stable-regex",
   "description": "Make every regex check deterministic by resetting lastIndex before test().",
   "homepage": "https://github.com/kikobeats/stable-regex",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "src/index.js",
   "exports": {
     ".": "./src/index.js"
