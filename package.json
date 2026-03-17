@@ -12,6 +12,7 @@
     "name": "Jose Francisco 'Kiko' Verdú Gambín",
     "url": "https://kikobeats.com"
   },
+  "contributors": [],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kikobeats/stable-regex.git"
